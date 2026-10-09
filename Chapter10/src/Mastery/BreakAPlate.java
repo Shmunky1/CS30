@@ -45,7 +45,7 @@ public class BreakAPlate {
 		ImageIcon placeholder = new ImageIcon("../Chapter10/src/Mastery/placeholder.gif");
 		ImageIcon plates_all_broken = new ImageIcon("../Chapter10/src/Mastery/plates_all_broken.gif");
 		ImageIcon plates_two_broken = new ImageIcon("../Chapter10/src/Mastery/plates_two_broken.gif");
-		ImageIcon plates = new ImageIcon("../Chapter10/src/Mastery/plates.gif");
+		ImageIcon plates = new ImageIcon("../Chapter10/src/Mastery/plates.gif"); 
 		ImageIcon sticker = new ImageIcon("../Chapter10/src/Mastery/sticker.gif");
 		ImageIcon tiger_plush = new ImageIcon("../Chapter10/src/Mastery/tiger_plush.gif");
 		

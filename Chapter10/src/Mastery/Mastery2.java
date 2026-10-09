@@ -122,7 +122,7 @@ public class Mastery2 {
 		});
 		lastN.setBounds(147, 11, 125, 20);
 		frame.getContentPane().add(lastN);
-		lastN.setColumns(10);
+		lastN.setColumns(10); 
 		
 		JButton btnNewButton = new JButton("Submit");
 		btnNewButton.addActionListener(new ActionListener() {
